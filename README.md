@@ -31,7 +31,8 @@ of my work.
    [Fundacja sterczące uszy website](https://github.com/Fundacja-Sterczace-Uszy/website)
    
 ##  📫 How to reach me:
-[LinkedIn](https://www.linkedin.com/in/nataliakabala/) [gmail](nata.kabala@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/nataliakabala/) 
+- [Gmail](nata.kabala@gmail.com)
 
 ##  Skills 
 
