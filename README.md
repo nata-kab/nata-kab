@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##  About me
+#  About me
 
 I learned programming under the supervision of a personal IT mentor. Now I am
 looking for my first commercial job and I can start it right away.
@@ -25,16 +25,16 @@ of my work.
 
 
 
-##  I’m currently working on my JS and React skills.
+#  I’m currently working on my JS and React skills.
 
-##  I'm currently collaborate on FundationWebsite co-working with JS developers and UX/UI designers.
+#  I'm currently collaborate on FundationWebsite co-working with JS developers and UX/UI designers.
    [Fundacja sterczące uszy website](https://github.com/Fundacja-Sterczace-Uszy/website)
    
-##  📫 How to reach me:
+#  📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/nataliakabala/) 
 - [Gmail](nata.kabala@gmail.com)
 
-##  Skills 
+#  Skills 
 
 - JavaScript
 - HTML & CSS
