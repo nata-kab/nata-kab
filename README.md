@@ -16,14 +16,9 @@ Here are some ideas to get you started:
 -->
 ###  About me
 
-I learned programming under the supervision of a personal IT mentor. Now I am
-looking for my first commercial job and I can start it right away.
-
 I found that programming is like a puzzle that challenges me to solve the problem
 and get all the parts to fit together. I'm always really excited to see the final result
 of my work.
-
-
 
 ###  I’m currently working on my JS and React skills.
 
