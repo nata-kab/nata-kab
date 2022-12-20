@@ -22,10 +22,10 @@ of my work.
 
 📚 I’m currently working on my JS, React skills and testing in Jest.
 
-#### I collaborated on the creation of a mobile application YourTurn board game helper
-🎲 There is no public repository but you can see app [here](https://play.google.com/store/apps/details?id=com.ig.yourturn)
+### I collaborated on the creation of a mobile application YourTurn board game helper
+🎲 You can find app [here](https://play.google.com/store/apps/details?id=com.ig.yourturn)
 
-#### 👩‍💻 I'm currently collaborate on FundationWebsite co-working with JS developers and UX/UI designers.
+### 👩‍💻 I'm currently collaborate on FundationWebsite co-working with JS developers and UX/UI designers.
 🐶 Fundacja sterczące uszy [website](https://github.com/Fundacja-Sterczace-Uszy/website)
    
 ### 📫 How to reach me:
