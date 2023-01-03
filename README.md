@@ -1,4 +1,4 @@
-## Hi there, I'm Natalia 👋 
+# Hi there, I'm Natalia 👋 
 
 <!--
 **nata-kab/nata-kab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,24 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-###  About me
+##  About me
 
 I found that programming is like a puzzle that challenges me to solve the problem
 and get all the parts to fit together. I'm always really excited to see the final result
 of my work.
 
-📚 I’m currently working on my JS, React skills and testing in Jest.
+I’m currently working on my JS, React skills and testing in Jest. 📚
 
-### I collaborated on the creation of a mobile application YourTurn board game helper
-🎲 You can find app [here](https://play.google.com/store/apps/details?id=com.ig.yourturn)
+## 🎲 YourTurn board game helper mobile application
+I collaborated on the creation of a  mobile application YourTurn board game helper
+You can find app [here](https://play.google.com/store/apps/details?id=com.ig.yourturn)
 
-### 👩‍💻 I'm currently collaborate on FundationWebsite co-working with JS developers and UX/UI designers.
-🐶 Fundacja sterczące uszy [website](https://github.com/Fundacja-Sterczace-Uszy/website)
+## 👩‍💻 I'm currently collaborate on FundationWebsite co-working with JS developers and UX/UI designers.
+ Fundacja sterczące uszy [website](https://github.com/Fundacja-Sterczace-Uszy/website)🐶
    
-### 📫 How to reach me:
+## 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nataliakabala/)
 
-### 🛠️ Languages and Tools
+## 🛠️ Languages and Tools
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
