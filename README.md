@@ -20,7 +20,7 @@ I found that programming is like a puzzle that challenges me to solve the proble
 and get all the parts to fit together. I'm always really excited to see the final result
 of my work.
 
-I’m currently working on my JS, React skills and testing in Jest. 📚
+I’m currently working on my JS, TS, React skills and testing in Jest. 📚
 
 ## 🎲 YourTurn board game helper
 I collaborated on the creation of a  mobile application.
