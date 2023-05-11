@@ -28,11 +28,11 @@ You can find app in the [google play](https://play.google.com/store/apps/details
 
 ## 👩‍💻 Fundation Sterczące Uszy website
 I'm currently collaborate on FundationWebsite co-working with JS developers and UX/UI designers.
-Fundacja sterczące uszy [website](https://www.sterczaceuszy.pl/) and see [repo](https://github.com/Fundacja-Sterczace-Uszy/website)🐶
+Fundacja sterczące uszy [website](https://www.sterczaceuszy.pl/) and see the [repo](https://github.com/Fundacja-Sterczace-Uszy/website)🐶
 
 ## ⏱️ TimeTracker
 In this project, among other things, I practiced using the redux toolkit and placing the application in the google store.
-You can find app in the [google play](https://play.google.com/store/apps/details?id=com.timeTracker) and see [repo](https://github.com/nata-kab/TimeTracker)
+You can find app in the [google play](https://play.google.com/store/apps/details?id=com.timeTracker) and see the [repo](https://github.com/nata-kab/TimeTracker)
 
 ## 🧑 Sample Profiles
 In this project I practiced working with an external API.
